@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/diplomata</item>
+        <item>@font/faster_one</item>
+        <item>@font/open_sans_light</item>
+        <item>@font/poppins_light</item>
+        <item>@font/pt_sans_bold</item>
+        <item>@font/roboto_bold</item>
+    </array>
+</resources>
